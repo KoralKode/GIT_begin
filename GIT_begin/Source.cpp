@@ -3,5 +3,6 @@ using namespace std;
 
 int main() {
 	int a = 9;
-	cout << a;
+	int b = 1;
+	cout <<"\"" << a + b<< "\"";
 }
